@@ -18,12 +18,12 @@
   <repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://18.217.22.156:8081</url>
+    <url>dav:http://18.220.19.218:8081/nexus/content/repositories/releases</url>
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://18.217.22.156:8081</url>
+    <url>dav:http://18.220.19.218:8081/nexus/content/repositories/snapshot</url>
   </snapshotRepository>
 </distributionManagement>
 
