@@ -21,7 +21,7 @@
          <url>file:///var/lib/jenkins/build/artifacts/</url>
        </repository>
    </distributionManagement>
-   </distributionManagement-->
+   </distributionManagement--!>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
